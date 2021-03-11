@@ -1,5 +1,6 @@
 # Michele Santoni
 
+![](profile image.jpg)
 
 ## __About me__
 Hi, I am Michele Santoni. I’m 23 years old and I live in Arezzo, Italy.
